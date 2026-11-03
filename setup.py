@@ -56,7 +56,7 @@ setup(
   # requirements files see:
   # https://packaging.python.org/en/latest/requirements.html
   install_requires=[ "numpy", "pandas", "matplotlib", "seaborn", 
-                     "pylint==2.4.3", "pyyaml"],
+                     "pylint==4.0.9", "pyyaml"],
 
   python_requires='>=3',
 
